@@ -1,6 +1,8 @@
 ## 
 
 
+![orig-5](https://github.com/user-attachments/assets/237a1c56-158a-4766-99ea-4cda84b28803)
+
 Мой стек технологий 
 
 <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=coffeescript&logoColor=white"/><img src="https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring&logoColor=white"/>
