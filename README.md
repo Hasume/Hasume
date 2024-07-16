@@ -1,7 +1,9 @@
 ## 
 
 
-![orig-5](https://github.com/user-attachments/assets/237a1c56-158a-4766-99ea-4cda84b28803)
+![VakAE](https://github.com/user-attachments/assets/f3ea2d17-8727-4feb-bc15-e4a9fc8ed0d2)
+
+
 
 Мой стек технологий 
 
